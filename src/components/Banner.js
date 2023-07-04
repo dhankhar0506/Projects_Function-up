@@ -21,7 +21,7 @@ export default function Banner() {
 
       <Container>
         <RightBox>
-          <WithBarTitle title="WITH SHRAVAN MEENA" />
+          <WithBarTitle title="WITH Gourav Dhankhar" />
           <H1>Build Perfect body shape for good and healthy life.</H1>
           <Button animation="fadeInLeft">Became a member</Button>
         </RightBox>
